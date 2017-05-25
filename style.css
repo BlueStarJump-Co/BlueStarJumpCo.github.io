@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url("logo.jpg");
+	background-image: url(\images\logo.jpg);
 	background-attachment: fixed;
 }
 
