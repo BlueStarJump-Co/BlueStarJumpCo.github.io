@@ -1,0 +1,48 @@
+* {
+	
+}
+
+body {
+	background-image: url("logo.jpg");
+	background-attachment: fixed;
+}
+
+.navigation {
+	
+}
+
+li {
+  background-color:red;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding: 20px 5px;
+  text-transform: uppercase;
+  margin-left:2em;
+  margin-right:2em;
+  display:inline-block;
+}
+
+.banner{
+	
+}
+
+#banner-content {
+  border: 3px ridge #AFB;
+  position: relative;
+  top: 20%;
+  width: 75%;
+  padding:20px 10px;
+  margin:auto;
+}
+
+.log {
+	text-align: center;
+	margin-top: 20px;
+}
+img.log {
+	Width:20%;
+	height:20%;
+	display: block;
+	margin: 1px auto;
+	border:2px solid rgb(23, 152, 204);
+}
